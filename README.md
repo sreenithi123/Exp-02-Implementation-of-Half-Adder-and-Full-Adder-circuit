@@ -1,13 +1,17 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+```
+Name :- Rajalakshmi R
+Reg no :- 23013958
+```
 
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-02 Implementation of Half Adder and Full Adder circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
 ### Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
+
+### Theory 
 Adders are digital circuits that carry out addition of numbers.
 
 ### Half Adder
@@ -20,35 +24,37 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
+![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
 
 #### Figure -01 HALF ADDER 
-
 
 ![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
 
 #### Figure -02 FULL ADDER 
 
 ### Procedure
-
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
-/*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
+### Program 
+```
+module project_3(sum,carry,a,b); 
+input a,b; 
+output sum,carry; 
+xor sum1(sum,a,b); 
+and carry1(carry,a,b); 
+endmodule
+```
+### RTL Realization
+![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/e8dfbe0f-ac67-4d75-880d-fd669580be01)
+
 ### TIMING DIAGRAM
-
+![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/f88fa8e1-6ca1-4499-af96-22670c739216)
 
 ### TRUTH TABLE 
+![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/88535d6e-8915-4be3-bcf7-a3e965081e15)
+
 
 ### Result:
+Thus the given logic functions are implemented and their operations are verified using verilog programming
