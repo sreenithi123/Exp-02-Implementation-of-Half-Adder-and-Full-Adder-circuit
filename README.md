@@ -3,6 +3,7 @@ Name :- sreenithi.E
 Reg no :- 212223220109
 ```
 # Ex:03 Implementation of Half Adder and Full Adder circuit
+
 Implementation of Half Adder and Full Adder circuit
 
 # AIM:
@@ -67,7 +68,7 @@ Half Adder
 ![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743046/c3bc8c19-da0a-4203-a505-91f79508557e)
 
 # Full Adder
-![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743046/b62737d1-1846-4775-ae63-e6b4adebc037)
+![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743046/a4c21c47-929b-47ee-a763-b6a6e185f631)
 
 
 # Result:
