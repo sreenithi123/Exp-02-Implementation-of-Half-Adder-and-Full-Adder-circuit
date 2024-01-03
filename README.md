@@ -69,13 +69,13 @@ endmodule
 ```
 
 ### RTL Realization
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/e3fd1433-f974-4265-a715-9a5fde0d78f9)
+![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/e3fd1433-f974-4265-a715-9a5fde0d78f9)
 
 ### TIMING DIAGRAM
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/6a11b3c6-dc53-400b-9a3d-5ebf6eac532a)
+![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/6a11b3c6-dc53-400b-9a3d-5ebf6eac532a)
 
 ### TRUTH TABLE 
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/a2d05afa-0f64-4906-9001-e9deb30f4f65)
+![image](https://github.com/sreenithi123/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/a2d05afa-0f64-4906-9001-e9deb30f4f65)
 
 ### Result:
 Thus the given logic functions are implemented and their operations are verified using verilog programming
