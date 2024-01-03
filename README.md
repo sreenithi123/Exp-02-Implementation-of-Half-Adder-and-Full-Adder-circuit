@@ -1,6 +1,6 @@
 ```
-Name :- Rajalakshmi R
-Reg no :- 23013958
+Name :- sreenithi.E
+Reg no :- 212223220109
 ```
 
 # Exp-03 Implementation of Half Adder and Full Adder circuit
